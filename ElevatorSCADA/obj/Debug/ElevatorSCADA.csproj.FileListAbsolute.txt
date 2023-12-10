@@ -1,0 +1,10 @@
+D:\Programming\ELEVATOR\ElevatorSCADA\ElevatorSCADA\bin\Debug\ElevatorSCADA.exe.config
+D:\Programming\ELEVATOR\ElevatorSCADA\ElevatorSCADA\bin\Debug\ElevatorSCADA.exe
+D:\Programming\ELEVATOR\ElevatorSCADA\ElevatorSCADA\bin\Debug\ElevatorSCADA.pdb
+D:\Programming\ELEVATOR\ElevatorSCADA\ElevatorSCADA\obj\Debug\ElevatorSCADA.csproj.AssemblyReference.cache
+D:\Programming\ELEVATOR\ElevatorSCADA\ElevatorSCADA\obj\Debug\ElevatorSCADA.Form1.resources
+D:\Programming\ELEVATOR\ElevatorSCADA\ElevatorSCADA\obj\Debug\ElevatorSCADA.Properties.Resources.resources
+D:\Programming\ELEVATOR\ElevatorSCADA\ElevatorSCADA\obj\Debug\ElevatorSCADA.csproj.GenerateResource.cache
+D:\Programming\ELEVATOR\ElevatorSCADA\ElevatorSCADA\obj\Debug\ElevatorSCADA.csproj.CoreCompileInputs.cache
+D:\Programming\ELEVATOR\ElevatorSCADA\ElevatorSCADA\obj\Debug\ElevatorSCADA.exe
+D:\Programming\ELEVATOR\ElevatorSCADA\ElevatorSCADA\obj\Debug\ElevatorSCADA.pdb
